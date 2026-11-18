@@ -1,0 +1,10 @@
+{
+  "name": "process-supervisor-engine",
+  "version": "0.1.0",
+  "private": true,
+  "description": "JavaScript 进程监管库，处理重启策略、退避、依赖顺序和孤儿进程清理",
+  "main": "src/supervisor.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
